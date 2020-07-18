@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/source.gif" width="30">
+<img align='right' src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="230">
 
-<!--
-**Luchanso/luchanso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏹 I’m currently working on Dependencies Manager for JS/TS ecosystem
+- 🌱 I’m currently learning Rust
+- 👯 I’m looking to collaborate on gaming in Dota 2
+- 💬 Ask me about Frontend & Backend
+- 📫 How to reach me: luchansodev@gmail.com
+- 😄 Pronouns: L oo (like a book) ch a n s o
+- ⚡ Fun fact: I can talk with dogs
+- 🎏 Hobbies: Cooking, gaming, hiking
 
-Here are some ideas to get you started:
+Thank you for reading, I'll go on coding, okay? ᓚᘏᗢ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
