@@ -10,6 +10,4 @@
 - ⚡ Fun fact: I can talk with dogs
 - 🎏 Hobbies: Cooking, gaming, hiking
 
-Thank you for reading, I'll go coding, okay? ᓚᘏᗢ
-
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
