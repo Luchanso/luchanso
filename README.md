@@ -10,4 +10,5 @@
 - ⚡ Fun fact: I can talk with dogs
 - 🎏 Hobbies: Cooking, gaming, hiking
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
+<img align="left" alt="luchanso's Github Stats" src="https://github-readme-stats.vercel.app/api?username=luchanso&show_icons=true&hide_border=true" />
+<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
