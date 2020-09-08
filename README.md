@@ -1,5 +1,6 @@
-### Hi there <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/source.gif" width="30">
-<img align='right' src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="230">
+### Hi there
+
+<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="245">
 
 - 🏹 I’m currently working on Dependencies Manager for JS/TS ecosystem
 - 🌱 I’m currently learning Rust
@@ -11,4 +12,3 @@
 - 🎏 Hobbies: Cooking, gaming, hiking
 
 <img align="left" alt="luchanso's Github Stats" src="https://github-readme-stats.vercel.app/api?username=luchanso&show_icons=true&hide_border=true" />
-<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
