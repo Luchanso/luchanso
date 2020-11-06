@@ -4,7 +4,7 @@ When deadline - yesterday
 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="245">
 
-When you are developer
+When you are a developer
 
 <img src="https://media.giphy.com/media/MGdfeiKtEiEPS/giphy.gif" width="245">
 
