@@ -1,1 +1,1 @@
-Hi, %username%
+Hi there 👋
